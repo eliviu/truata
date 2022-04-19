@@ -1,0 +1,11 @@
+
+target/
+*.iml
+.idea_modules/
+.idea/
+atlassian-ide-plugin.xml
+.boot/
+.ivy/
+.sbtboot/
+project/project/
+.bsp
